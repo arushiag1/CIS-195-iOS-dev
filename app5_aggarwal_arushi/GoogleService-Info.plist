@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>613965081239-7v3ru1sajkhvnhnpl4l66qlhlhld4uir.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.613965081239-7v3ru1sajkhvnhnpl4l66qlhlhld4uir</string>
+	<key>API_KEY</key>
+	<string>AIzaSyByEchynuLsQS-WhaS0xXva54wx-0NUdXc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>613965081239</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ArushiApps.app5-aggarwal-arushi</string>
+	<key>PROJECT_ID</key>
+	<string>cis195app5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cis195app5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:613965081239:ios:e3d0888bc984fe06cad7d2</string>
+	<key>DATABASE_URL</key>
+	<string>https://cis195app5.firebaseio.com</string>
+</dict>
+</plist>

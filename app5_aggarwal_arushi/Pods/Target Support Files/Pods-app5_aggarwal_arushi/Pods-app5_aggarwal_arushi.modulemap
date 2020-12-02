@@ -1,0 +1,6 @@
+framework module Pods_app5_aggarwal_arushi {
+  umbrella header "Pods-app5_aggarwal_arushi-umbrella.h"
+
+  export *
+  module * { export * }
+}
